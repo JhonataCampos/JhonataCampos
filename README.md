@@ -11,6 +11,6 @@
 - 📫 How to reach me: Well, i have my email, LinkedIn and Trailhead link. You can enter in touch with me there! :D
 - ⚡ Fun fact: I'm a musician :D
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataCampos&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataCampos&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
