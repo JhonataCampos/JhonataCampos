@@ -22,7 +22,7 @@
 </p>
 
 ### Some languages that i mess around
-<p align="right"> 
+<p align="left"> 
      <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="25" height="25"/> </a> 
     <a href="https://www.react.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="25" height="25"/> </a> 
