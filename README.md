@@ -3,7 +3,7 @@
 **JhonataCampos/JhonataCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I’m currently working on multiple Salesforce projects. As it stands my life right now, i'm more focused in Salesforce Superbadges and little personal projects.
+- 🔭 I’m currently working on multiple Salesforce projects. As it stands my life right now, i'm more focused in Salesforce Superbadges and little personal projects.
 - 🌱 I’m currently learning more about Salesforce in general, including LWC, Aura Components
 - 👯 I’m looking to collaborate on anything that i can help with :D
 - 🤔 I’m looking for help with JavaScript, Apex, LWC, Aura and Visualforce. Those are my interests at the moment
@@ -23,13 +23,17 @@
 
 ### Some cool stuff
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
   <img style="margin-right: 20px;" align="left" src="https://github-readme-stats.vercel.app/api?username=JhonataCampos&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-<a align="right" href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos" />
-   <p align="left"> 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=2&width=300)
+
+<a align="left" href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos&layout=compact" />
+</a>
+
+<p align="left"> 
      <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="25" height="25"/> </a> 
     <a href="https://www.react.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="25" height="25"/> </a> 
@@ -37,7 +41,5 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="25" height="25"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </a> 
-  </p>
-</a>
+</p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=2&width=500)
