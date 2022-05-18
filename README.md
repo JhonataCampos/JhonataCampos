@@ -21,7 +21,7 @@
   <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968914.png" alt="" height="30" width="30" /></a>
 </p>
 
-### Some languages that i mess around
+### Some OS and languages that i mess around
 <p align="left"> 
      <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="25" height="25"/> </a> 
@@ -38,7 +38,7 @@
   <img style="margin-right: 20px;" align="left" src="https://github-readme-stats.vercel.app/api?username=JhonataCampos&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=2&width=350)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=2&width=320)
 
 <br />
 
