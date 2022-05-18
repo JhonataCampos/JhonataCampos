@@ -12,5 +12,7 @@
 - ⚡ Fun fact: I'm a musician :D
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataCampos&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=2)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
