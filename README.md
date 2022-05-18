@@ -31,4 +31,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos" />
 </a>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=3)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=2&width=500)
