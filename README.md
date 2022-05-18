@@ -44,7 +44,7 @@
 <br />
 
 <a align="left" href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos&theme=radical" />
 </a>
 <span>ƪ(ړײ)‎ƪ</span>
 <a align="right" href="https://git.io/streak-stats">
