@@ -38,8 +38,9 @@
   <img style="margin-right: 20px;" align="left" src="https://github-readme-stats.vercel.app/api?username=JhonataCampos&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=2&width=320)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=2&width=325)
 
+<br />
 <br />
 
 <a align="left" href="https://github.com/anuraghazra/convoychat">
