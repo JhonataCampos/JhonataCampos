@@ -24,7 +24,7 @@
 ### Some cool stuff
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="margin-right: 20px;" align="center" src="https://github-readme-stats.vercel.app/api?username=JhonataCampos&count_private=true&show_icons=true&theme=radical" />
+  <img style="margin-right: 20px;" align="left" src="https://github-readme-stats.vercel.app/api?username=JhonataCampos&count_private=true&show_icons=true&theme=radical" />
 </a>
 
 <a align="right" href="https://github.com/anuraghazra/convoychat">
