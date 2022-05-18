@@ -35,7 +35,7 @@
 ### Some other cool stuff
 
 <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="margin-right: 20px;" align="left" src="https://github-readme-stats.vercel.app/api?username=JhonataCampos&count_private=true&show_icons=true&theme=radical" />
+  <img style="margin-right: 20px;" align="left" src="https://github-readme-stats.vercel.app/api?username=JhonataCampos&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=2&width=325)
@@ -44,7 +44,7 @@
 <br />
 
 <a align="left" href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos&theme=vision-friendly-dark" />
 </a>
 <span>ƪ(ړײ)‎ƪ</span>
 <a align="right" href="https://git.io/streak-stats">
