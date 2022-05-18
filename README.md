@@ -28,7 +28,7 @@
 </a>
 
 <a align="right" href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos" />
 </a>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=3)
