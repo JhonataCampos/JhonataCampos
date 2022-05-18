@@ -11,12 +11,17 @@
 - 📫 How to reach me: Well, i have my email, LinkedIn and Trailhead link. You can enter in touch with me there! :D
 - ⚡ Fun fact: I'm a musician :D
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/jhonata-campos/" target="blank"><img align="center" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/jhowkampos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/salesforce.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jhonata-campos/" target="blank"><img align="center" style="color: white;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="30" width="30" /></a>
+    <span> | </span>
+  <a href="https://www.instagram.com/jhowkampos/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="" height="30" width="30" /></a>
+    <span> | </span>
+  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968914.png" alt="" height="30" width="30" /></a>
 </p>
+
+### Some cool stuff
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img style="margin-right: 20px;" align="center" src="https://github-readme-stats.vercel.app/api?username=JhonataCampos&count_private=true&show_icons=true&theme=radical" />
@@ -25,3 +30,5 @@
 <a align="right" href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos&layout=compact" />
 </a>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12171886399&count=3)
