@@ -44,9 +44,12 @@
 <br />
 
 <a align="left" href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos" />
+</a>
+<span>ƪ(ړײ)‎ƪ</span>
+<a align="right" href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JhonataCampos&theme=dark&background=000000" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhonataCampos&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
