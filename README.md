@@ -47,3 +47,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCampos&layout=compact" />
 </a>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhonataCampos&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
