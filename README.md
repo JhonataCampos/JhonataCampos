@@ -18,7 +18,7 @@
     <span> | </span>
   <a href="https://www.instagram.com/jhowkampos/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="" height="50" width="50" /></a>
     <span> | </span>
-  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968914.png" alt="" height="50" width="50" /></a>
+  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://img3.gratispng.com/dy/c2fc639a9422d6fa2a0884538e40b5c1/L0KzQYm3V8E2N5DnkpH0aYP2gLBuTgNidJZ4ftH7Y3Wwc7F0TgRzaZpxgNdqZD3lhcTwjvV0e151eeRtb4Swg7LzhgNnd6NofZ91b3fyPYbpVPFkaZRqe9QENHS3PomCUsk2PWUASac8MUa1SIO6WMg0O2oziNDw/kisspng-salesforce-com-trailhead-business-pardot-salesforce-logo-5b4acacecb94d4.8929554915316282388339.png" alt="" height="50" width="50" /></a>
 </p>
 
 ### Some OS and languages that i mess around:
