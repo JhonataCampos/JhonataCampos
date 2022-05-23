@@ -14,11 +14,11 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jhonata-campos/" target="blank"><img align="center" style="color: white;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/jhonata-campos/" target="blank"><img align="center" style="color: white;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="60" width="60" /></a>
     <span> | </span>
-  <a href="https://www.instagram.com/jhowkampos/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/jhowkampos/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="" height="60" width="60" /></a>
     <span> | </span>
-  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968914.png" alt="" height="30" width="30" /></a>
+  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968914.png" alt="" height="60" width="60" /></a>
 </p>
 
 ### Some OS and languages that i mess around:
