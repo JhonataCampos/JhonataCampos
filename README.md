@@ -14,21 +14,21 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jhonata-campos/" target="blank"><img align="center" style="color: white;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/jhonata-campos/" target="blank"><img align="center" style="color: white;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="45" width="45" /></a>
     <span> | </span>
-  <a href="https://www.instagram.com/jhowkampos/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/jhowkampos/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="" height="45" width="45" /></a>
     <span> | </span>
-  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://www.nicepng.com/png/full/67-671741_salesforce-logo-png.png" alt="" height="50" width="60" /></a>
+  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" alt="" height="45" width="53" /></a>
 </p>
 
 ### Some OS and languages that i mess around:
 <p align="left"> 
-    <a href="https://developer.salesforce.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="apex" width="90" height="60"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="60" height="60"/> </a> 
-    <a href="https://www.react.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="60" height="60"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="60" height="60"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
+    <a href="https://developer.salesforce.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="apex" width="70" height="45"/> </a> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/> </a> 
+    <a href="https://www.react.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a> 
 </p>
 
 ### Some other cool stuff
