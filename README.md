@@ -18,7 +18,7 @@
     <span> | </span>
   <a href="https://www.instagram.com/jhowkampos/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="" height="45" width="45" /></a>
     <span> | </span>
-  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" alt="" height="45" width="53" /></a>
+  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://www.salesforce.com/content/dam/blogs/nl/Dec2015/trailhead-flogo.png" alt="" height="45" width="53" /></a>
 </p>
 
 ### Some OS and languages that i mess around:
