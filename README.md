@@ -15,9 +15,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jhonata-campos/" target="blank"><img align="center" style="color: white;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="45" width="45" /></a>
-    <span> | </span>
+    <span> [¬º-°]¬ </span>
   <a href="https://www.instagram.com/jhowkampos/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="" height="45" width="45" /></a>
-    <span> | </span>
+    <span> [¬º-°]¬ </span>
   <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://i0.wp.com/loicgaydu.com/wp-content/uploads/2016/10/trailhead-logo-1.png" alt="" height="75" width="58" /></a>
 </p>
 
