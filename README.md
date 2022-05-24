@@ -14,21 +14,21 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jhonata-campos/" target="blank"><img align="center" style="color: white;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="45" width="45" /></a>
+  <a href="https://www.linkedin.com/in/jhonata-campos/" target="blank"><img align="center" style="color: white;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="35" width="35" /></a>
     <span> [¬º-°]¬ </span>
-  <a href="https://www.instagram.com/jhowkampos/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="" height="45" width="45" /></a>
+  <a href="https://www.instagram.com/jhowkampos/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="" height="35" width="35" /></a>
     <span> [¬º-°]¬ </span>
-  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://i0.wp.com/loicgaydu.com/wp-content/uploads/2016/10/trailhead-logo-1.png" alt="" height="75" width="58" /></a>
+  <a href="https://trailblazer.me/id/jcampos20" target="blank"><img align="center" src="https://i0.wp.com/loicgaydu.com/wp-content/uploads/2016/10/trailhead-logo-1.png" alt="" height="55" width="45" /></a>
 </p>
 
 ### Some OS and languages that i mess around:
 <p align="left"> 
-    <a href="https://developer.salesforce.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="apex" width="70" height="45"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/> </a> 
-    <a href="https://www.react.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a> 
+    <a href="https://developer.salesforce.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="apex" width="50" height="35"/> </a> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="35" height="35"/> </a> 
+    <a href="https://www.react.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> 
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> 
 </p>
 
 ### Some other cool stuff
