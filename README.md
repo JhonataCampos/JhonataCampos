@@ -23,7 +23,7 @@
 
 ### Some OS and languages that i mess around:
 <p align="left"> 
-    <a href="https://developer.salesforce.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="apex" width="50" height="35"/> </a> 
+    <a href="https://developer.salesforce.com/developer-centers/apex" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="apex" width="50" height="35"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="35" height="35"/> </a> 
     <a href="https://www.react.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/> </a> 
