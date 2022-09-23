@@ -3,7 +3,7 @@
 **JhonataCampos/JhonataCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on multiple Salesforce projects. As it stands my life right now, i'm more focused in Salesforce Superbadges and little personal projects.
+- 🔭 I’m currently working on multiple Salesforce projects. As it stands my life right now, i'm more focused in Salesforce Certifications and little personal projects.
 - 🌱 I’m currently learning more about Salesforce in general, including LWC, Aura Components
 - 👯 I’m looking to collaborate on anything that i can help with :D
 - 🤔 I’m looking for help with JavaScript, Apex, LWC, Aura and Visualforce. Those are my interests at the moment
